@@ -16,15 +16,33 @@ I also completed an intensive Data Analyst program at PPKD Jakarta Selatan, wher
 
 ## Skills
 
-**Programming and Query Languages:** SQL, Python (Jupyter Notebook, Google Colab)
+**Programming and Query Languages:** 
+- SQL
+- Python (Jupyter Notebook, Google Colab)
 
-**Data Visualization:** Power BI, Google Looker Studio, Metabase, Microsoft Excel, Google Sheets
+**Data Visualization:** 
+- Power BI
+- Looker Studio
+- Metabase
+- Excel/Google Sheets
 
-**Databases:** MySQL, PostgreSQL, DBeaver
+**Databases:** 
+- MySQL
+- PostgreSQL
+- DBeaver
 
-**Spatial Analysis:** ArcGIS, QGIS, Global Mapper, Google Earth Engine, Google Earth Pro
+**Spatial Analysis:** 
+- ArcGIS
+- QGIS
+- Global Mapper
+- Google Earth Engine
+- Google Earth Pro
 
-**Other Tools:** Pentaho, Orange, GitHub, Notion
+**Other:** 
+- Pentaho
+- Orange
+- GitHub
+- Notion
 
 ---
 
@@ -46,14 +64,12 @@ I also completed an intensive Data Analyst program at PPKD Jakarta Selatan, wher
 ## Featured Projects
 
 ### Exploratory Data Analysis on NVIDIA GPU Sales
-Exploratory data analysis on Kaggle's synthetic NVIDIA GPU sales 2026 dataset (7,000 rows).
-- Tools: [TOOLS]
-- Repo: [REPO LINK]
+Exploratory Data Analysis (EDA) on NVIDIA GPU sales 2026 dataset
+- Repo: https://github.com/alifalfarizy/EDA-NVIDIA-GPU-Sales.git
 
 ### Olist Brazilian E-Commerce SQL Analysis
 [ONE LINE: the business questions answered with SQL]
-- Tools: SQL, [DATABASE AND CLIENT]
-- Repo: [REPO LINK]
+- Repo: https://github.com/alifalfarizy/EcommeceOlist-SQL-analysis.git
 
 ### Store Item Demand Forecasting
 Demand forecasting project on Kaggle's Store Item Demand Forecasting dataset, comparing models against a baseline in Python.
