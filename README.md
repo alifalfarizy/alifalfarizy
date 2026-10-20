@@ -16,33 +16,24 @@ I also completed an intensive Data Analyst program at PPKD Jakarta Selatan, wher
 
 ## Skills
 
-**Programming and Query Languages:** 
-- SQL
-- Python (Jupyter Notebook, Google Colab)
+- **Programming and Query Languages:** 
+_SQL | Python (Jupyter Notebook, Google Colab)_
 
-**Data Visualization:** 
-- Power BI
-- Looker Studio
-- Metabase
-- Excel/Google Sheets
 
-**Databases:** 
-- MySQL
-- PostgreSQL
-- DBeaver
+- **Data Visualization:** 
+_Power BI | Looker Studio | Excel/Google Sheets | Metabase_
 
-**Spatial Analysis:** 
-- ArcGIS
-- QGIS
-- Global Mapper
-- Google Earth Engine
-- Google Earth Pro
 
-**Other:** 
-- Pentaho
-- Orange
-- GitHub
-- Notion
+- **Databases:** 
+_MySQL | PostgreSQL | DBeaver_
+
+
+- **Spatial Analysis:** 
+_ArcGIS | QGIS | Global Mapper | Google Earth Engine | Google Earth Pro_
+
+
+- **Other:** 
+_Pentaho | Orange | GitHub | Notion_
 
 ---
 
@@ -63,29 +54,15 @@ I also completed an intensive Data Analyst program at PPKD Jakarta Selatan, wher
 
 ## Featured Projects
 
-### Exploratory Data Analysis on NVIDIA GPU Sales
-Exploratory Data Analysis (EDA) on NVIDIA GPU sales 2026 dataset
+### Exploratory Data Analysis (EDA) on NVIDIA GPU Sales
 - Repo: https://github.com/alifalfarizy/EDA-NVIDIA-GPU-Sales.git
 
 ### Olist Brazilian E-Commerce SQL Analysis
-[ONE LINE: the business questions answered with SQL]
 - Repo: https://github.com/alifalfarizy/EcommeceOlist-SQL-analysis.git
 
 ### Store Item Demand Forecasting
-Demand forecasting project on Kaggle's Store Item Demand Forecasting dataset, comparing models against a baseline in Python.
-- Tools: Python, [LIBRARIES]
-- Repo: [REPO LINK]
-
-### [PROJECT NAME]
-[ONE LINE: dataset used and the question the project answers]
-- Tools: [TOOLS]
-- Repo: [REPO LINK]
-
-### [PROJECT NAME]
-[ONE LINE: dataset used and the question the project answers]
-- Tools: [TOOLS]
-- Repo: [REPO LINK]
+- Repo: https://github.com/alifalfarizy/Forecasting-Store-Item.git
 
 ---
 
-Thanks for visiting my profile. Feel free to reach me out by email, LinkedIn, or WhatsApp.
+Thank you for visiting my profile. Feel free to reach me out by email, LinkedIn, or WhatsApp.
