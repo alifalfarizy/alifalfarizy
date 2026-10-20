@@ -6,13 +6,6 @@ I also completed an intensive Data Analyst program at PPKD Jakarta Selatan, wher
 
 ---
 
-## Connect with Me
-
-- Email: aalifalfarizyy@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alifalfarizy/
-- WhatsApp: https://wa.me/6288809762044
-
----
 
 ## Skills
 
@@ -65,4 +58,9 @@ _Pentaho | Orange | GitHub | Notion_
 
 ---
 
-Thank you for visiting my profile. Feel free to reach me out by email, LinkedIn, or WhatsApp.
+Thank you for visiting my profile. Feel free to reach me out 
+- Email: aalifalfarizyy@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alifalfarizy/
+- WhatsApp: https://wa.me/6288809762044
+
+---
