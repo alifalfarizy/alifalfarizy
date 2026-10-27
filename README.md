@@ -22,26 +22,11 @@ _MySQL | PostgreSQL | DBeaver_
 
 
 - **Spatial Analysis:** 
-_ArcGIS | QGIS | Global Mapper | Google Earth Engine | Google Earth Pro_
+_ArcGIS | QGIS | Global Mapper | Google Earth Engine_
 
 
 - **Other:** 
-_Pentaho | Orange | GitHub | Notion_
-
----
-
-
-## Education and Training
-
-**Data Analyst** - PPKD Jakarta Selatan
-
-- *Data Analytics, Data Visualization, Data Warehouse, SQL, Exploratory Data Analysis, ETL, Analysis Reporting, Machine Learning*
-
-**Bachelor of Geography Science** - Universitas Negeri Semarang
-
-- *GPA: 3.57/4.00*
-
-- Background in GIS and spatial analysis
+_Pentaho | Orange | GitHub_
 
 ---
 
