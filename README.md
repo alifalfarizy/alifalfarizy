@@ -41,6 +41,8 @@ _Pentaho | Orange | GitHub_
 ### Store Item Demand Forecasting
 - Repo: https://github.com/alifalfarizy/Forecasting-Store-Item.git
 
+### 2026 Merauke Wildfire Analysis using Google Earth Engine
+- Repo: https://github.com/alifalfarizy/wildfire-merauke-2026
 ---
 
 Thank you for visiting my profile. Feel free to reach me out 
