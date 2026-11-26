@@ -35,13 +35,16 @@ _Pentaho | Orange | GitHub_
 ### Exploratory Data Analysis (EDA) on NVIDIA GPU Sales
 - Repo: https://github.com/alifalfarizy/EDA-NVIDIA-GPU-Sales.git
 
+### New Jersey Transit Operational & Delay Dashboard
+- Repo: https://github.com/alifalfarizy/njtransit-delay-dashboard
+
 ### Olist Brazilian E-Commerce SQL Analysis
 - Repo: https://github.com/alifalfarizy/EcommeceOlist-SQL-analysis.git
 
 ### Store Item Demand Forecasting
 - Repo: https://github.com/alifalfarizy/Forecasting-Store-Item.git
 
-### 2026 Merauke Wildfire Analysis using Google Earth Engine
+### Merauke Wildfire (2026) Analysis using Google Earth Engine
 - Repo: https://github.com/alifalfarizy/wildfire-merauke-2026
 ---
 
